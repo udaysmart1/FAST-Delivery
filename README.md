@@ -1,5 +1,4 @@
-####  Website name: Quick Eat
-# Live Link:   https://quick-eat-78668.web.app
+
 
 # Start this project using -- 
 # frameworks, libraries
