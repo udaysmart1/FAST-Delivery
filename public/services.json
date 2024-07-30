@@ -1,0 +1,50 @@
+[
+  {
+    "service_id": "01",
+    "img": "https://i.ibb.co/VCDSy0B/charlesdeluvio-Pv-AAYZx-yf8-unsplash.jpg",
+    "price": 29,
+    "rating": 5.5,
+    "serviceName": "Popcorn",
+    "details": "Popcorn is a variety of corn kernel which expands and puffs up when heated; the same names also refer to the foodstuff produced by the expansion. A popcorn kernel's strong hull contains the seed's hard, starchy shell endosperm with 14–20% moisture, which turns to steam as the kernel is heated."
+  },
+  {
+    "service_id": "02",
+    "img": "https://i.ibb.co/2NQy95J/kobby-mendez-q54-Oxq44-MZs-unsplash.jpg",
+    "price": 80,
+    "rating": 37,
+    "serviceName": "Donut ",
+    "details": "A doughnut or donut is a type of food made from leavened fried dough. It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty vendors."
+  },
+  {
+    "service_id": "03",
+    "img": "https://i.ibb.co/gzJWQGB/markus-winkler-WHt-VB-Ri-W2-I-unsplash.jpg",
+    "price": 150,
+    "rating": 21,
+    "serviceName": "Beefsteak",
+    "details": "A beefsteak, often called just steak, is a flat cut of beef with parallel faces, usually cut perpendicular to the muscle fibers. In common restaurant service a single serving has a raw mass ranging from 120 to 600 grams. Beef steaks are usually grilled, pan-fried, or broiled."
+  },
+  {
+    "service_id": "04",
+    "img": "https://i.ibb.co/dK092Kp/matheus-cenali-w-Xuz-S9x-R49-M-unsplash.jpg",
+    "price": 21,
+    "rating": 20,
+    "serviceName": "Apple",
+    "details": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today."
+  },
+  {
+    "service_id": "05",
+    "img": "https://i.ibb.co/MNchCHS/syed-f-hashemi-p91-GLh-Qv35o-unsplash.jpg",
+    "price": 120,
+    "rating": 36,
+    "serviceName": "Fried chicken",
+    "details": "Fried chicken, also known as Southern fried chicken, is a dish consisting of chicken pieces that have been coated with seasoned flour or batter and pan-fried, deep fried, pressure fried, or air fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat."
+  },
+  {
+    "service_id": "06",
+    "img": "https://i.ibb.co/qrt7hjg/shourav-sheikh-a66s-Gf-Onnq-Q-unsplash.jpg",
+    "price": 220,
+    "rating": 36,
+    "serviceName": "Pizza",
+    "details": "Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients, which is then baked at a high temperature, traditionally in a wood-fired oven. A small pizza is sometimes called a pizzetta. "
+  }
+]
