@@ -1,6 +1,4 @@
 
-
-# Start this project using -- 
 # frameworks, libraries
 Create React App
 Tailwind css
